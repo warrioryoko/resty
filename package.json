@@ -1,5 +1,5 @@
 {
-  "name": "alchemy-app",
+  "name": "resty",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -23,7 +23,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-json-view": "^1.19.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
