@@ -19,6 +19,6 @@ describe('Testing the container component, RESTy... does it display aghnabble EV
 
     const display = await screen.findByTestId('display');
 
-    expect(display(not.toBeEmptyDOMElement());
+    expect(display(not.toBeEmptyDOMElement()));
   });
 });
